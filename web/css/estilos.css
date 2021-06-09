@@ -10,13 +10,22 @@ h1{
     font-size: 40px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
-    color: rgb(16, 14, 14);
+    color: #4B593E;
 }
 body{
 
-    background-color: rgb(245, 245, 213);
+    background-color: #F2F2F0;
 
 }
+form{
+    background-color: #ebebe8;
+    font-size:  12px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+
+}
+
+
 
 /* Criando um padrão de classe de estilos para ser aplicado na nossa página */
 .contexto{
@@ -28,5 +37,33 @@ body{
     font-size: 14px;
     font-weight: bold;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: rgb(16, 14, 14);
+    color: #4B593E;
+}
+.campos_form{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width: 240px;
+    background-color: #e0e0de;
+    color:#4B593E;
+}
+
+/* Criando estilos para a nossa página com Bootstrap */
+.container{
+    border: 3px solid black;
+}
+
+.div1{
+    background-color: yellow;
+}
+
+.div2{
+    background-color: green;
+}
+
+.div3{
+    background-color: blue;
+}
+
+.div4{
+    background-color: red;
 }
