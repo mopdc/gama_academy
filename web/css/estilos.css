@@ -1,0 +1,32 @@
+
+/* Criando um padrão de estilos para os comandos nativos do HTML */
+p{
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+
+}
+h1{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    color: rgb(16, 14, 14);
+}
+body{
+
+    background-color: rgb(245, 245, 213);
+
+}
+
+/* Criando um padrão de classe de estilos para ser aplicado na nossa página */
+.contexto{
+    font-size: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: gray;
+}
+.menu{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(16, 14, 14);
+}
